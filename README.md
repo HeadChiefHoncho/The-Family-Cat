@@ -1,7 +1,10 @@
 # The Family Cat
 
-This game prototype was created for LMC 4725, Game Design.
+![Alt Text](https://media.giphy.com/media/600Nk0mSqeYkcZOuMy/giphy.gif)
 
+This game prototype was created by Justina Ampofo, Evan Brook, and Alex Loomis as a final project for their Game Design class. The game story follows the player, a cat, who is newly adopted into a multicultural family. The player experiences the story through their actions as a cat and may make decisions to experience different scenes based on their choices.
+
+You can view our final project demo video here: https://www.youtube.com/watch?v=1lkZaQNBe0Q
 
 
 # Instructions to Download/Play
