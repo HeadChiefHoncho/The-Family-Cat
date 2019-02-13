@@ -6,7 +6,10 @@ This game prototype was created for LMC 4725, Game Design.
 
 # Instructions to Download/Play
 
-To play, download the entire repo (keeping the file structure the same) and use the config.exe to choose your game settings.
+The Family Cat is only playable on Windows. To play, download the entire repo (keeping the file structure the same) and open the game with "Windows/Cat Demo.exe". 
+
+Use "Windows/winsetup.exe" to choose your game settings.
+
 
 
 # Controls
